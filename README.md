@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=23&duration=2500&pause=1000&color=F771E7&background=FFFFFF00&width=435&lines=Hello%2C+Guys+!+I'm+Raiizer+%F0%9F%91%8B%F0%9F%8F%BD;Deep+Learning+Enjoyer;Neural+Network;Cyber+Security+Enthusiast;+Developer+of+Security+Tools+;OSINT+%26+Forensic+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=23&duration=1000&pause=1000&color=F771E7&background=FFFFFF00&width=435&lines=Hello%2C+Guys+!+I'm+Raiizer+%F0%9F%91%8B%F0%9F%8F%BD;Deep+Learning+Enjoyer;Neural+Network;Cyber+Security+Enthusiast;+Developer+of+Security+Tools+;OSINT+%26+Forensic+Analyst)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eust-w&theme=midnight-purple)](https://git.io/streak-stats)
 
