@@ -1,4 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=23&duration=2500&pause=1000&color=F771E7&background=FFFFFF00&width=435&lines=Hello%2C+Guys+!+I'm+Raiizer+%F0%9F%91%8B%F0%9F%8F%BD;Deep+Learning+Enjoyer;Neural+Network;Cyber+Security+Enthusiast;+Developer+of+Security+Tools+;OSINT+%26+Forensic+Analyst)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eust-w&theme=midnight-purple)](https://git.io/streak-stats)
+
 ## Technologies and Tools I use:
 
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
@@ -17,3 +20,4 @@
 [<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/tool-logo-wireshark.svg' width='40' height='40' />](https://www.wireshark.org/)
 [<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/tool-logo-metasploit.svg' width='40' height='40' />](https://www.metasploit.com/)
 [<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/tool-logo-netexec.svg' width='40' height= '40'/>](https://www.netexec.wiki/)
+
