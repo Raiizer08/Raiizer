@@ -3,8 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=55&duration=500&color=F771E7FF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=2800&height=400&lines=Cyber+Security+Enthusiast+%7C+French+CTF+Player+%7C;Developer+of+Security+Tools+%7C+Vulnerability+Researcher+%7C;OSINT+%26+Forensic+Analyst "Typing SVG" /></a>
 </div>
 
+<div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=eust-w&theme=midnight-purple)](https://git.io/streak-stats)
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
