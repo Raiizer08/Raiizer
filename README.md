@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=23&duration=2500&pause=1000&color=F771E7&background=FFFFFF00&center=true&width=435&lines=Hello%2C+Guys+!+I'm+Raiizer+%F0%9F%91%8B%F0%9F%8F%BD;Deep+Learning+Enjoyer+%7C+Neural+Network+Developer+%7C+Cyber+Security+Enthusiast+%7CCTF+Player+%7C+Developer+of+Security+Tools+%7C+Vulnerabilty+Researcher+%7C+OSINT+%26+Forensic+Analyst+)](https://git.io/typing-svg)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=eust-w&theme=midnight-purple)](https://git.io/streak-stats)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=23&duration=2500&pause=1000&color=F771E7&background=FFFFFF00&center=true&width=435&lines=Hello%2C+Guys+!+I'm+Raiizer+%F0%9F%91%8B%F0%9F%8F%BD;Deep+Learning+Enjoyer+%7C+Neural+Network+Developer;Cyber+Security+Enthusiast+%7C+CTF+Player+;%7C+Developer+of+Security+Tools+%7C+Vulnerabilty+Researcher+;OSINT+%26+Forensic+Analyst+)](https://git.io/typing-svg)
 
 ## Technologies and Tools I use:
 
