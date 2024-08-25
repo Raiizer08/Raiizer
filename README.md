@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=23&duration=2500&pause=1000&color=F771E7&background=FFFFFF00&center=true&width=435&lines=Hello%2C+Guys+!+I'm+Raiizer+%F0%9F%91%8B%F0%9F%8F%BD;Deep+Learning+Enjoyer+%7C+Neural+Network+Developer;Cyber+Security+Enthusiast+%7C+CTF+Player+;%7C+Developer+of+Security+Tools+%7C+Vulnerabilty+Researcher+;OSINT+%26+Forensic+Analyst+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier&weight=500&size=23&duration=2500&pause=1000&color=F771E7&background=FFFFFF00&width=435&lines=Hello%2C+Guys+!+I'm+Raiizer+%F0%9F%91%8B%F0%9F%8F%BD;Deep+Learning+Enjoyer+%7C+Neural+Network+Developer;Cyber+Security+Enthusiast+%7C+CTF+Player+;%7C+Developer+of+Security+Tools+%7C+Vulnerabilty+Researcher+;OSINT+%26+Forensic+Analyst+;Glib+jocks+quiz+nymph+to+vex+dwarf;Jived+fox+nymph+grabs+quick+waltz;The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump;Quick+fox+jumps+nightly+above+wizard)](https://git.io/typing-svg)
 
 ## Technologies and Tools I use:
 
