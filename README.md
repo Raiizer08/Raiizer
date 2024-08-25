@@ -5,6 +5,7 @@
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width='40' height='40' />](https://www.php.net/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg' width='40' height='40' />](https://http.apache.org/)
 [<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/ida-pro.svg' width='40' height='40' />](https://hex-rays.com/ida-pro/)
+[<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/hashcat-logo.svg' />](https://hashcat.net/hashcat/)
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png' width='40' height='40' />](https://isocpp.org/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/goland/goland-plain.svg' width='40' height='40' />](https://go.dev/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' width='40' height='40' />](https://git-scm.com/)
