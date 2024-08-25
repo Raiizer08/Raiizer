@@ -2,6 +2,7 @@
 
 [<img src='https://i.giphy.com/media/LMt9638dO8dftAjtco/100.webp' width='40' height='40' />](https://python.org/)
 [<img src='https://i.giphy.com/media/ln7z2eWriiQAllfVcn/200.webp' width='40' height='40' />](https://nodejs.org/)
+[<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/ghidra.svg' width='40' height='40' />](https://ghidra-sre.org/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg' width='40' height='40' />](https://www.php.net/)
 [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg' width='40' height='40' />](https://http.apache.org/)
 [<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/ida-pro.svg' width='40' height='40' />](https://hex-rays.com/ida-pro/)
