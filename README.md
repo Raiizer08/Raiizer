@@ -21,3 +21,5 @@
 [<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/tool-logo-metasploit.svg' width='40' height='40' />](https://www.metasploit.com/)
 [<img src='https://raw.githubusercontent.com/Raiizer08/svg-logos/main/icons/tool-logo-netexec.svg' width='40' height= '40'/>](https://www.netexec.wiki/)
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&duration=3000&pause=1000&color=00AA00&center=true&vCenter=true&random=false&width=480&lines=Pentest+%26+Ethical+Hacker;Blockchain+%26+IoT+Security+Enthusiast;AI%2C+Steganography+%26+Modern+Cryptography;SEO%2C+Forensic+%26+OSINT+Investigator" alt="Typing SVG" /></a>
+</div>
